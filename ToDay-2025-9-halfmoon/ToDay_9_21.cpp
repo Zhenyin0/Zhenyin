@@ -25,6 +25,10 @@ int AdditionLen(List &L, int len)
     L.MaxSize = L.MaxSize + len;
     free(q);
 
+
+
+
+    
 }
 
 int main()
